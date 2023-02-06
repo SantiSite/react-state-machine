@@ -1,6 +1,6 @@
 .BaseLayout {
   background-color: #fed6e3;
-  background-image: url('../../public/images/background-travel-2.jpg');
+  background-image: url("../../public/images/background-travel-2.jpg");
   background-size: cover;
   min-height: 100vh;
   display: flex;
