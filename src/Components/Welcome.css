@@ -1,8 +1,0 @@
-.Welcome {
-  display: flex;
-  flex-direction: column;
-}
-
-.Welcome-cancel {
-  margin-left: auto;
-}
